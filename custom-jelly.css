@@ -1,5 +1,6 @@
 .c_collection_info{
 border: 1px solid;
 padding: 3px;
-color: red;
+color: orange;
+font-weight: bolder;
 }
